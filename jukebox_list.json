@@ -1,0 +1,241 @@
+
+[
+    
+    {
+    "artist": "Little Richard",
+    "album": "Here's Little Richard",
+    "tracklist": ["Tutti Frutti", "True, Fine Mama", "Can't Believe You Wanna Leave", "Ready Teddy", "Baby", "Slippin' and Slidin'", "Long Tall Sally", "Miss Ann", "Oh Why?", "Rip It Up", "Jenny, Jenny", "She's Got It"],
+    "tracklength": [145, 163, 148, 129, 126, 162, 130, 137, 129, 143, 124, 146]
+    },
+    
+    {
+    "artist": "Fleetwood Mac",
+    "album": "Rumors",
+    "tracklist": ["Second Hand News", "Dreams", "Never Going Back Again", "Don't Stop", "Go Your Own Way", "Songbird", "The Chain", "You Make Loving Fun", "I Don't Want To Know", "Oh Daddy", "Gold Dust Woman"],
+    "tracklength": [163, 254, 122, 191, 218, 200, 268, 211, 191, 234, 291]
+    },
+    
+    {
+    "artist": "Marvin Gaye",
+    "album": "What's Going On",
+    "tracklist": ["What's Going On", "What's Happening Brother", "Flyin' High [In The Friendly Sky)", "Save The Children", "God Is Love", "Mercy Mercy Me (The Ecology)", "Right On", "Wholy Holy", "Inner City Blues (Make Me Wanna Holler)"],
+    "tracklength": [231, 177, 220, 184, 151, 185, 440, 200, 316]
+    },
+    
+    {
+    "artist": "Prince",
+    "album": "Purple Rain",
+    "tracklist": ["Let's Go Crazy", "Take Me With U", "The Beautiful Ones", "Computer Blue", "Darling Nikki", "When Doves Cry", "I Would Die 4 U", "Baby I'm A Star", "Purple Rain"],
+    "tracklength": [279, 234, 315, 239, 255, 352, 171, 260, 525]
+    },
+    
+    {
+    "artist": "Radiohead",
+    "album": "OK Computer",
+    "tracklist": ["Airbag", "Paranoid Android", "Subterranean Homesick Alien", "Exit Music (For A Film)", "Let Down", "Karma Police", "Fitter Happier", "Electioneering", "Climbing Up The Walls", "No Surprises", "Lucky", "The Tourist"],
+    "tracklength": [284, 383, 267, 264, 299, 261, 117, 230, 285, 228, 259, 324]
+    },
+    
+    {
+    "artist": "Queen",
+    "album": "Greatest Hits",
+    "tracklist": ["Bohemian Rhapsody", "Another One Bites The Dust", "Killer Queen", "Fat Bottomed Girls", "Bicycle Race","You're My Best Friend", "Don't Stop Me Now", "Save Me", "Crazy Little Thing Called Love", "Somebody To Love", "Now I'm Here", "Good Old-Fashioned Lover Boy", "Play The Game", "Flash", "Seven Seas Of Rhye", "We Will Rock You","We Are The Champions", "Teo Torriatte (Let Us Cling Together)"],
+    "tracklength": [355, 215, 181, 203, 181, 172, 210, 228, 164, 297, 254, 172, 213, 168, 167, 122, 183, 305]
+    },
+    
+    {
+    "artist": "Dolly Parton",
+    "album": "Jolene",
+    "tracklist": ["Jolene", "When Someone Wants To Leave", "River Of Happiness", "Early Morning Breeze", "Highlight Of My Life", "I Will Always Love You", "Randy", "Living On Memories Of You", "Lonely Comin' Down", "It Must Be You"],
+    "tracklength": [158, 124, 137, 165, 136, 173, 133, 162, 191, 108]
+    },
+    
+    {
+    "artist": "Dead or Alive",
+    "album": "Youthquake",
+    "tracklist": ["You Spin Me Round (Like A Record)", "I Wanna Be A Toy", "D.J. Hit That Button", "In Too Deep", "Big Daddy Of The Rhythm", "Cake And Eat It", "Lover Come Back To Me", "My Heart Goes Bang", "It's Been A Long Time"],
+    "tracklength": [196, 236, 206, 249, 200, 274, 287, 191, 474]
+    },
+    
+    {
+    "artist": "Aqua",
+    "album": "Aquarium",
+    "tracklist": ["Happy Boys & Girls", "My Oh My", "Barbie Girl", "Good Morning Sunshine", "Doctor Jones", "Heat Of The Night", "Be A Man", "Lollipop (Candyman)", "Roses Are Red", "Turn Back Time", "Calling You"],
+    "tracklength": [217, 205, 196, 243, 202, 213, 262, 215, 223, 249, 213]
+    },
+    
+    {
+    "artist": "Lady Gaga",
+    "album": "Born This Way",
+    "tracklist": ["Marry The Night", "Born This Way", "Government Hooker", "Judas", "Americano", "Hair", "Scheiße", "Bloody Mary", "Bad Kids", "Highway Unicorn (Road To Love)", "Heavy Metal Lover", "Electric Chapel", "Yoü And I", "The Edge Of Glory"],
+    "tracklength": [264, 260, 254, 249, 246, 308, 345, 244, 231, 255, 252, 252, 307, 320]
+    },
+    
+    {
+    "artist": "Dua Lipa",
+    "album": "Future Nostalgia",
+    "tracklist": ["Future Nostalgia", "Don't Start Now", "Cool", "Physical", "Levitating", "Pretty Please", "Hallucinate", "Love Again", "Break My Heart", "Good In Bed (Explicit)", "Boys Will Be Boys"],
+    "tracklength": [185, 183, 210, 194, 204, 195, 209, 258, 222, 219, 166]
+    },
+    
+    {
+    "artist": "Janis Joplin",
+    "album": "Pearl",
+    "tracklist": ["Move Over", "Cry Baby", "A Woman Left Lonely", "Half Moon", "Buried Alive In The Blues", "My Baby", "Me & Bobby McGee", "Mercedes Benz", "Trust Me", "Get It While You Can"],
+    "tracklength": [220, 235, 206, 230, 143, 223, 268, 105, 194, 202]
+    },
+    
+    {
+    "artist": "Blondie",
+    "album": "Parallel Lines",
+    "tracklist": ["Hanging On The Telephone", "One Way Or Another", "Picture This", "Fade Away And Radiate", "Pretty Baby", "I Know But I Don't Know", "11:59", "Will Anything Happen", "Sunday Girl", "Heart Of Glass", "I'm Gonna Love You Too", "Just Go Away"],
+    "tracklength": [137, 211, 173, 237, 196, 233, 199, 175, 181, 234, 123, 201]
+    },
+    
+    {
+    "artist": "Donna Summer",
+    "album": "On the Radio Greatest Hits Volumes I and II",
+    "tracklist": ["On The Radio", "Love To Love You Baby", "Try Me, I Know We Can Make It", "I Feel Love", "Our Love", "I Remember Yesterday", "I Love You", "Heaven Knows", "Last Dance", "MacArthur Park", "Hot Stuff", "Bad Girls", "Dim All The Lights", "Sunset People", "No More Tears (Enough Is Enough)", "On The Radio (Long Version)"],
+    "tracklength": [240, 247, 204, 201, 223, 286, 192, 210, 296, 233, 185, 177, 250, 211, 700, 349]
+    }, 
+    
+    {
+    "artist": "Sylvester",
+    "album": "Step II",
+    "tracklist": ["You Make Me Feel (Mighty Real)", "Dance (Disco Heat)", "You Make Me Feel (Mighty Real) (Epilogue)", "Grateful", "I Took My Strength From You", "Was It Something That I Said", "Just You And Me Forever"],
+    "tracklength": [390, 350, 199, 207, 436, 255, 271]
+    },
+    
+    {
+    "artist": "Lil' Kim",
+    "album": "Hard Core",
+    "tracklist": ["Intro In A-Minor", "Big Momma Thang", "No Time", "Spend A Little Doe", "Take It!", "Crush On You", "Drugs", "Scheamin", "Queen Bitch", "Dreams", "M.A.F.I.A. Land", "We Don't Need It", "Not Tonight", "Player Haters", "Fuck You"],
+    "tracklength": [134, 257, 300, 335, 46, 275, 260, 49, 197, 279, 277, 250, 271, 53, 173]
+    },
+    
+    {
+    "artist": "Trina",
+    "album": "Diamond Princess",
+    "tracklist": ["Intro - Sommore", "Hustling", "Told Y'all", "Rewind That Back", "B R Right", "U & Me", "Busted Skit", "Nasty Bitch", "No Panties", "I Wanna Holla", "How We Do", "Kandi", "Ladies 1st", "Get This Money", "100%", "Do You Want Me?", "Outro - Sommore"],
+    "tracklength": [52, 174, 194, 196, 262, 247, 117, 154, 166, 192, 199, 189, 211, 230, 253, 220, 21]
+    },
+    
+    {
+    "artist": "LeAnn Rimes",
+    "album": "Blue",
+    "tracklist": ["Blue", "Hurt Me", "One Way Ticket (Because I Can)", "My Baby", "Honestly", "The Light In Your Eyes", "Talk To Me", "I'll Get Even With You", "Cattle Call", "Good Lookin' Man", "Fade To Blue"],
+    "tracklength": [167, 173, 222, 169, 201, 200, 191, 198, 187, 191, 183]
+    },
+    
+    {
+    "artist": "Britney Spears",
+    "album": "Blackout",
+    "tracklist": ["Gimme More", "Piece Of Me", "Radar", "Break The Ice", "Heaven On Earth", "Get Naked (I Got A Plan)", "Freakshow", "Toy Soldier", "Hot As Ice", "Ooh Ooh Baby", "Perfect Lover", "Why Should I Be Sad"],
+    "tracklength": [251, 212, 229, 196, 292, 285, 175, 201, 196, 208, 182, 190]
+    },
+    
+    {
+    "artist": "Beyonce",
+    "album": "4",
+    "tracklist": ["1+1", "I Care", "I Miss You", "Best Thing I Never Had", "Party", "Rather Die Young", "Start Over", "Love On Top", "Countdown", "End Of Time", "I Was Here", "Run The World (Girls)"],
+    "tracklength": [273, 239, 179, 253, 245, 222, 199, 267, 213, 224, 239, 236]
+    },
+    
+    {
+    "artist": "Mariah Carey",
+    "album": "The Emancipation of Mimi",
+    "tracklist": ["It's Like That", "We Belong Together", "Shake It Off", "Mine Again", "Say Somethin'", "Stay The Night", "Get Your Number", "One And Only", "Circles", "Your Girl", "I Wish You Knew", "To The Floor", "Joy Ride", "Fly Like A Bird"],
+    "tracklength": [203, 201, 232, 241, 224, 237, 195, 194, 210, 166, 214, 207, 243, 233]
+    },
+    
+    {
+    "artist": "Usher",
+    "album": "Confessions",
+    "tracklist": ["Intro", "Yeah!", "Throwback", "Confessions (Interlude)", "Confessions Part II", "Burn", "Caught Up", "Superstar (Interlude)", "Superstar", "Truth Hurts", "Simple Things", "Bad Girl", "That's What It's Made For", "Can U Handle It?", "Do It To Me", "Take Your Hand", "Follow Me"],
+    "tracklength": [46, 250, 241, 75, 229, 255, 264, 64, 208, 231, 297, 261, 277, 345, 233, 183, 211]
+    },
+    
+    {
+    "artist": "Lauryn Hill",
+    "album": "The Miseducation of Lauryn Hill",
+    "tracklist": ["Intro", "Lost Ones", "Ex-Factor", "To Zion", "Doo Wop (That Thing)", "Superstar", "Final Hour", "When It Hurts So Bad", "I Used To Love Him", "Forgive Them Father", "Every Ghetto, Every City", "Nothing Even Matters", "Everything Is Everything", "The Miseducation Of Lauryn Hill", "Can't Take My Eyes Off Of You", "Tell Him"],
+    "tracklength": [47, 333, 326, 269, 320, 297, 256, 342, 339, 315, 314, 350, 293, 257, 222, 221]
+    },
+    
+    {
+    "artist": "Nina Simone",
+    "album": "Wild is the Wind",
+    "tracklist": ["I Love Your Lovin' Ways", "Four Women", "What More Can I Say", "Lilac Wine (From 'Dance Me A Song')", "That's All I Ask", "Break Down And Let It All Out", "Why Keep On Breakin My Heart", "Wild Is The Wind", "Black Is The Color Of My True Love's Hair", "If I Should Lose You", "Either Way I Lose"],
+    "tracklength": [155, 260, 285, 254, 138, 165, 150, 413, 205, 235, 224]
+    },
+    
+    {
+    "artist": "Aretha Franklin",
+    "album": "Lady Soul",
+    "tracklist": ["Chain Of Fools", "Money Won't Change You", "People Get Ready", "Niki Hoeky", "(You Make Me Feel Like) A Natural Woman", "Since You've Been Gone (Sweet Sweet Baby)", "Good To Me As I Am To You", "Come Back Baby", "Groovin'", "Ain't No Way"],
+    "tracklength": [165, 122, 215, 153, 157, 138, 205, 149, 165, 252]
+    },
+    
+    {
+    "artist": "Blur",
+    "album": "Blur",
+    "tracklist": ["Beetlebum", "Song 2", "Country Sad Ballad Man", "M.O.R.", "On Your Own", "Theme From Retro", "You're So Great", "Death Of A Party", "Chinese Bombs", "I'm Just A Killer For Your Love", "Look Inside America", "Strange News From Another Star", "Movin' On", "Essex Dogs", "Interlude"],
+    "tracklength": [305, 121, 290, 207, 276, 217, 215, 273, 84, 251, 230, 242, 224, 376, 102]
+    },
+    
+    {
+    "artist": "Megan Thee Stallion",
+    "album": "Good News",
+    "tracklist": ["Shots Fired", "Circles", "Cry Baby", "Do It On The Tip", "Sugar Baby", "Movie", "Freaky Girls", "Body", "What's New", "Work That", "Intercourse", "Go Crazy", "Don't Rock Me To Sleep", "Outside", "Savage (Remix)", "Girls In The Hood", "Don't Stop"],
+    "tracklength": [171, 171, 138, 167, 147, 227, 167, 171, 155, 135, 197, 225, 183, 152, 242, 154, 188]
+    }, 
+    
+    {
+    "artist": "Paramore",
+    "album": "Brand New Eyes",
+    "tracklist": ["Careful", "Ignorance", "Playing God", "Brick By Boring Brick", "Turn It Off", "The Only Exception", "Feeling Sorry", "Looking Up", "Where The Lines Overlap", "Misguided Ghosts", "All I Wanted", "Decode"],
+    "tracklength": [230, 218, 182, 253, 259, 267, 185, 209, 198, 181, 225, 262]
+    },
+    
+    {
+    "artist": "Rihanna",
+    "album": "ANTI",
+    "tracklist": ["Consideration", "James Joint", "Kiss It Better", "Work", "Desperado", "Woo", "Needed Me", "Yeah, I Said It", "Same Ol' Mistakes", "Never Ending", "Love On The Brain", "Higher", "Close To You"],
+    "tracklength": [161, 72, 253, 219, 186, 235, 191, 133, 397, 202, 224, 120, 223]
+    },
+    
+    {
+    "artist": "My Chemical Romance",
+    "album": "Three Cheers for Sweet Revenge",
+    "tracklist": ["Helena", "Give 'Em Hell, Kid", "To The End", "You Know What They Do To Guys Like Us In Prison", "I'm Not Okay (I Promise)", "The Ghost Of You", "The Jetset Life Is Gonna Kill You", "Interlude", "Thank You For The Venom", "Hang 'Em High", "It's Not A Fashion Statement, It's A Deathwish", "Cemetery Drive", "I Never Told You What I Do For A Living"], 
+    "tracklength": [203, 139, 181, 174, 189, 203, 208, 57, 221, 168, 211, 188, 232]
+    },
+    
+    {
+    "artist": "Frank Ocean",
+    "album": "Channel Orange",
+    "tracklist": ["Start", "Thinkin Bout You", "Fertilizer", "Sierra Leone", "Sweet Life", "Not Just Money", "Super Rich Kids", "Pilot Jones", "Crack Rock", "Pyramids", "Lost", "White", "Monks", "Bad Religion", "Pink Matter", "Forrest Gump", "End"],
+    "tracklength": [46, 201, 40, 149, 263, 60, 305, 184, 224, 594, 234, 76, 200, 175, 269, 195, 135]
+    },
+    
+    {
+   "artist":  "Utada Hikaru",
+    "album": "First Love",
+    "tracklist": ["Automatic (Album Edit)", "Movin' On Without You", "In My Room", "First Love", "甘いワナ ~ Paint It, Black", "Time Will Tell", "Never Let Go", "B&C (Album Version)", "Another Chance", "Interlude", "Give Me A Reason", "Automatic (Johnny Vicious Remix)"],
+    "tracklength": [328, 277, 259, 257, 302, 326, 237, 260, 321, 16, 382, 277]
+    },
+    
+    {
+    "artist": "Kendrick Lamar",
+    "album": "DAMN.",
+    "tracklist": ["Blood", "DNA", "Yah", "Element", "Feel", "Loyalty", "Pride", "Humble", "Lust", "Love", "XXX", "Fear", "God", "Duckworth"],
+    "tracklength": [118, 185, 159, 208, 214, 227, 271, 176, 308, 211, 254, 414, 248, 248]
+    },
+    
+    {
+    "artist": "Daft Punk",
+    "album": "Discovery",
+    "tracklist": ["One More Time", "Aerodynamic", "Digital Love", "Harder, Better, Faster, Stronger", "Crescendolls", "Nightvision", "Superheroes", "High Life", "Something About Us", "Voyager", "Veridis Quo", "Short Circuit", "Face To Face", "Too Long"],
+    "tracklength": [321, 207, 298, 223, 208, 103, 237, 193, 230, 226, 344, 204, 238, 600]
+    }
+]
