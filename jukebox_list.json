@@ -39,7 +39,7 @@
     {
     "artist": "Queen",
     "album": "Greatest Hits",
-    "tracklist": ["Bohemian Rhapsody", "Another One Bites The Dust", "Killer Queen", "Fat Bottomed Girls", "Bicycle Race","You're My Best Friend", "Don't Stop Me Now", "Save Me", "Crazy Little Thing Called Love", "Somebody To Love", "Now I'm Here", "Good Old-Fashioned Lover Boy", "Play The Game", "Flash", "Seven Seas Of Rhye", "We Will Rock You","We Are The Champions", "Teo Torriatte (Let Us Cling Together)"],
+    "tracklist": ["Bohemian Rhapsody", "Another One Bites The Dust", "Killer Queen", "Fat Bottomed Girls", "Bicycle Race", "You're My Best Friend", "Don't Stop Me Now", "Save Me", "Crazy Little Thing Called Love", "Somebody To Love", "Now I'm Here", "Good Old-Fashioned Lover Boy", "Play The Game", "Flash", "Seven Seas Of Rhye", "We Will Rock You","We Are The Champions", "Teo Torriatte (Let Us Cling Together)"],
     "tracklength": [355, 215, 181, 203, 181, 172, 210, 228, 164, 297, 254, 172, 213, 168, 167, 122, 183, 305]
     },
     
@@ -156,7 +156,7 @@
     },
     
     {
-    "artist": "Lauryn Hill",
+    "artist": "Ms. Lauryn Hill",
     "album": "The Miseducation of Lauryn Hill",
     "tracklist": ["Intro", "Lost Ones", "Ex-Factor", "To Zion", "Doo Wop (That Thing)", "Superstar", "Final Hour", "When It Hurts So Bad", "I Used To Love Him", "Forgive Them Father", "Every Ghetto, Every City", "Nothing Even Matters", "Everything Is Everything", "The Miseducation Of Lauryn Hill", "Can't Take My Eyes Off Of You", "Tell Him"],
     "tracklength": [47, 333, 326, 269, 320, 297, 256, 342, 339, 315, 314, 350, 293, 257, 222, 221]

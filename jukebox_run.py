@@ -17,15 +17,16 @@ def playlist_length(seconds):
       
     return "%d:%02d:%02d" % (hour, minutes, seconds)
 
-def foo():
+def jukebox():
     start_loop = input("{}, Would you like to build a playlist, select a premade playlist, or quit? Please enter 'build', 'premade', or 'quit'.  ".format(user_name))
 
     user_playlist = []
     list_run_time = []
     
-    if start_loop.upper() == "QUIT":
+    while start_loop.upper() == "QUIT":
         print("Thank you for using The Gold Standard!")
-    elif start_loop.upper() == "BUILD":
+    
+    if start_loop.upper() == "BUILD":
         requested_song_amount = int(input("Please enter the number of songs you would like to hear as a numeric digit.  "))
 
         for album in album_library:
@@ -36,12 +37,15 @@ def foo():
             song_choice = int(input("Enter the numeric value of your song choice.  "))-1
             user_playlist.append(song_choice)
             list_run_time.append(album_library[choose_album-1]['tracklength'][song_choice])
+        print_playlist = user_playlist
+        print_playlist = ','.join(map(str, print_playlist)) 
+        print(print_playlist)
         print(playlist_length(sum(list_run_time)))
 
     elif start_loop.upper() == "PREMADE":
-        print("These playlists are")
-    #else for when the entered value is not one of the correct values
+        print("Please choose a premade playlist.")
 
-foo()
+    else:
+        print("Please enter 'build', 'premade', or 'quit'.")
 
-#round((x1+y1+z1)/60),0)
+jukebox()
