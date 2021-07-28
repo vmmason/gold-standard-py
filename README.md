@@ -7,7 +7,8 @@ It functions similarly to a real life jukebox, with options for selecting premad
 
 ##Features
 
-The album library is a JSON file that is stored in a variable and accessed when the loop starts to allow you to choose your songs. 
+The album library is a JSON file that is stored in a variable and accessed when the loop starts to allow you to choose your songs.
+The program runs on a continuous loop as long as you don't enter "quit."
 You enter the amount of songs you would like to hear, then choose from the library, and the program captures your selection to work similarly to "credits." 
 After you've finished selecting, the program prints out your selection and its length by converting the sum of the seconds of each song to hh:mm:ss. 
 If you would like to see the premade playlists, the program will print them out when entering the option from the menu.
